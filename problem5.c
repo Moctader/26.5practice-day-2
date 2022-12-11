@@ -3,11 +3,7 @@ You have given a positive integer N, the size of an array as input. Take an arra
 You have to find the sum of those elements in array which last digit is zero.
 Implementing this by using function.
 */
-/*
-You have given a positive integer N, the size of an array as input. Take an array size N an input
-You have to find the sum of those elements in array which last digit is zero.
-Implementing this by using function.
-*/
+
 #include<stdio.h>
 
 void is_last_digit_sum(int ara[], int x)
