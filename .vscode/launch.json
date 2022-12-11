@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/moctader/Phitron/2.Introduction to programming c/w7 function & recursion/26.5practice day 2",
+      "program": "/Users/moctader/Phitron/2.Introduction to programming c/w7 function & recursion/26.5practice day 2/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
